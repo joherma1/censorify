@@ -1,9 +1,14 @@
 {
   "author": "Jose Antonio",
-  "name": "censorify",
+  "name": "censorify-joherma1",
   "version": "0.0.1",
   "description": "Censor words",
   "main": "censortext",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/joherma1/censorify"
+  },
+  "keywords": ["censor","words"],
   "dependencies": {},
   "engines": {
     "node": "*"
