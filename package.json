@@ -1,0 +1,11 @@
+{
+  "author": "Jose Antonio",
+  "name": "censorify",
+  "version": "0.0.1",
+  "description": "Censor words",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
